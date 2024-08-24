@@ -1,0 +1,22 @@
+1. la diferencia entre un editor de texto y un ide es un editor de codigo mas sencillo
+Un editor de texto es una herramienta básica que se utiliza para escribir y editar texto plano.
+ Estos editores no están específicamente diseñados para la programación, pero se pueden utilizar
+ para escribir código. Ejemplos de editores de texto son Notepad++, Sublime Text, Visual Studio Code y Atom.
+
+y un IDE es Un IDE es una herramienta más completa diseñada específicamente para el desarrollo de software. 
+Integra varias funcionalidades en una sola aplicación que ayuda a programadores a desarrollar, 
+depurar y mantener su código de manera más eficiente. Ejemplos de IDEs son IntelliJ IDEA, Eclipse, Visual Studio y PyCharm.
+
+2. un lenjuage tipado es necesario declarar el tipo de variable y uno no toipado no es necesario es mas flexible
+
+3. ttipos  de datos en java
+numericos:
+
+enteros int, double,Long,short,byt
+decimal : flotat double
+
+cadena : string
+
+fechas :java.util.Date , java.util.Calendar,java.time.LocalDate
+
+
